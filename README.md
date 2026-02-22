@@ -15,6 +15,11 @@ A modern, production-ready template for building full-stack React applications u
 - 📖 [React Router docs](https://reactrouter.com/)
 
 ## Getting Started
+## Setup
+
+1. Copy `.env.example`
+2. Rename it to `.env`
+3. Fill in required values
 
 ### Installation
 
